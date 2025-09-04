@@ -1,5 +1,5 @@
 body {
-	background-color: lightblue;
+	background-color: white;
 }
 
 h1 {
@@ -7,7 +7,7 @@ h1 {
 	font-size:  16px;
 	color: blue;
 	text-align: center;
-	border:  1px green;
+	border:  1px blue;
 	background-color:  #D3D3D3;
 	height:  30px;
 	border-radius:  10px;
@@ -30,4 +30,5 @@ img {
 	background: #73AD21;
 	padding: 20px;
 }
+
 
