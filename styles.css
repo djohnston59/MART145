@@ -23,8 +23,14 @@ p {
 	font-family: verdana;
 	font-size: 12px;
 }
+img{
+		border: 1px solid blue;
+		border-radius: 25px;
+		background: #73AD21;
+		padding: 20px
+	}
 
-}
+
 
 
 
