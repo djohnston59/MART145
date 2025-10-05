@@ -5,7 +5,7 @@ body {
 h1 {
 	font-family: verdana;
 	font-size:  16px;
-	color: blue;
+	color: white;
 	text-align: center;
 	border:  1px blue;
 	background-color:  #215EAD;
@@ -29,6 +29,7 @@ img{
 		background: #215EAD;
 		padding: 20px
 	}
+
 
 
 
