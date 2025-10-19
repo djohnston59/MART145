@@ -3,17 +3,6 @@
 	<h1> My Hobby </h1>
 	<link rel="stylesheet" href="styles.css">
 	<style>
-	.navbar {
-		background-color:  blue;
-		float: left;
-	}
-	.navbar ul {
-			background-color: darkgray;
-			list-style-type: none;
-			margin: 0;
-			padding: 0;
-			overflow: hidden;
-		}
 	  
 	ul {
 		list-style-type: inline;
@@ -49,7 +38,17 @@
 	}
 
 	</style>
-	 <div class="collapse navbar-collapse" id="myNavbar">
+	<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">Portfolio</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
        <li><a class="active" href="index.html">Home</a></li>
 		   <li><a href="VinylCollection.html">My Vinyl Collection</a></li>
@@ -57,6 +56,8 @@
 		   <li><a href="FavoriteColor.html">My Favorite Vinyl Colors</a></li>
 		   <li><a href="ExpensiveVinyls.html">My Most Expensive Vinyls</a></li>
            <li><a href="Boostrap.html">More About Me</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
 </head>
 
 	<div> 
@@ -85,6 +86,7 @@
 	
 
 </html>
+
 
 
 
