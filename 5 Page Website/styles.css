@@ -1,0 +1,42 @@
+body {
+	background-color: white;
+}
+
+h1 {
+	font-family: verdana;
+	font-size:  16px;
+	color: white;
+	text-align: center;
+	border:  1px blue;
+	background-color:  #215EAD;
+	height:  30px;
+	border-radius:  10px;
+}
+
+h2 {
+	font-size:  14px;
+	color: black;
+	text-align: left;
+}
+
+p {
+	font-family: verdana;
+	font-size: 12px;
+}
+img{
+		border: 1px solid blue;
+		border-radius: 25px;
+		background: #215EAD;
+		padding: 20px
+	}
+
+
+
+
+
+
+
+
+
+
+
